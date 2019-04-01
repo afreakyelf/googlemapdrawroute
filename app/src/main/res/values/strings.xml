@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">scmmap2</string>
+    <string name="google_maps_key" translatable="false">
+        AIzaSyCmmFDJpofg8oqUrKZNnHTAwOxIHBvPJbg    </string>
+    <string name="todo">TODO</string>
+    <string name="begin_navigation">Begin Navigation</string>
+    <string name="pickup_area">Pickup Area</string>
+    <string name="green_park">Green Park</string>
+    <string name="old_rajinder_nagar">Old Rajinder Nagar</string>
+    <string name="appointment_area">Appointment Area</string>
+    <string name="style_json" translatable="false">
+        [
+        {
+        "elementType": "labels",
+        "stylers": [
+        {
+        "visibility": "off"
+        }
+        ]
+        },
+        {
+        "elementType": "labels.text",
+        "stylers": [
+        {
+        "visibility": "on"
+        }
+        ]
+        },
+        {
+        "featureType": "administrative.land_parcel",
+        "stylers": [
+        {
+        "visibility": "off"
+        }
+        ]
+        },
+        {
+        "featureType": "administrative.neighborhood",
+        "stylers": [
+        {
+        "visibility": "off"
+        }
+        ]
+        },
+        {
+        "featureType": "poi",
+        "elementType": "labels.text",
+        "stylers": [
+        {
+        "visibility": "off"
+        }
+        ]
+        },
+        {
+        "featureType": "poi.business",
+        "stylers": [
+        {
+        "visibility": "off"
+        }
+        ]
+        },
+        {
+        "featureType": "road",
+        "elementType": "labels.icon",
+        "stylers": [
+        {
+        "visibility": "off"
+        }
+        ]
+        },
+        {
+        "featureType": "transit",
+        "stylers": [
+        {
+        "visibility": "off"
+        }
+        ]
+        }
+        ]
+    </string>
+
+</resources>
